@@ -1,0 +1,18 @@
+h1 {
+  font-weight: bold;
+  font-style: oblique;
+}
+
+.jumbotron {
+  color: rgb(19, 160, 160);
+  background-color: rgb(203, 241, 241);
+}
+
+.monsoon {
+  color: blueviolet;
+}
+
+.dry {
+  color: orange;
+}
+
